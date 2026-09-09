@@ -60,5 +60,6 @@ I am always open to collaboration, learning opportunities, and connecting with f
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL-Here)-->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abelrp104@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
 
 *"The only way to do great work is to love what you do." – Steve Jobs*

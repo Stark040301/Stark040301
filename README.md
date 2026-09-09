@@ -20,7 +20,6 @@ I am a second-year Computer Science student at the University of Havana with a d
 ### 💻 Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 *(Actively learning HTML, CSS, and JavaScript)*
 
@@ -59,7 +58,7 @@ Here are some of the projects that showcase my learning journey and skills:
 
 I am always open to collaboration, learning opportunities, and connecting with fellow developers.
 
-*[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL-Here)*
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL-Here)-->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abelrp104@gmail.com)
 
 *"The only way to do great work is to love what you do." – Steve Jobs*

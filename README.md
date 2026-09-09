@@ -50,10 +50,9 @@ Here are some of the projects that showcase my learning journey and skills:
 *Check out my repositories below for more details and code.*
 
 ## 📊 GitHub Activity & Stats
-
-![Stark040301's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stark040301&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stark040301&layout=compact&theme=radical)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stark040301&theme=github_dark)
+![GitHub Stats Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stark040301&theme=github_dark)
+![GitHub Stats Cards](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stark040301&theme=github_dark)
 
 ## 🤝 Let's Connect
 

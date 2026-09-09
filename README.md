@@ -51,8 +51,9 @@ Here are some of the projects that showcase my learning journey and skills:
 
 ## 📊 GitHub Activity & Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stark040301&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stark040301&layout=compact&theme=tokyonight)
+![Stark040301's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stark040301&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stark040301&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 
